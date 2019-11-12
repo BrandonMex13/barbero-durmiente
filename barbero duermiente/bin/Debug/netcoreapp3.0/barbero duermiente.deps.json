@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "barbero duermiente/1.0.0": {
+        "runtime": {
+          "barbero duermiente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "barbero duermiente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
